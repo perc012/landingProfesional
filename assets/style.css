@@ -58,7 +58,7 @@ h3 {
 /* hero section*/
 .hero-section {
     height: 90vh;
-    background: url(assets/img/candle.jpg);
+    background: url(/assets/img/candle.jpg);
     background-position: center;
     background-repeat: none;
     background-size: cover;
